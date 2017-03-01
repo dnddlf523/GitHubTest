@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					F96D96AF1E66BA3500149039 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = MX57N3NB7G;
 						ProvisioningStyle = Automatic;
 					};
 					F96D96C81E66BA3500149039 = {
@@ -422,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MX57N3NB7G;
 				INFOPLIST_FILE = GitHubTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fanme.GitHubTest;
@@ -433,6 +435,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MX57N3NB7G;
 				INFOPLIST_FILE = GitHubTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fanme.GitHubTest;
@@ -505,6 +508,7 @@
 				F96D96DF1E66BA3500149039 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F96D96E01E66BA3500149039 /* Build configuration list for PBXNativeTarget "GitHubTestTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				F96D96E21E66BA3500149039 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F96D96E31E66BA3500149039 /* Build configuration list for PBXNativeTarget "GitHubTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				F96D96E51E66BA3500149039 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
